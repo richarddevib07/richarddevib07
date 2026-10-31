@@ -59,13 +59,7 @@
 <!-- ESTATÍSTICAS -->
 ### 📊 GitHub Analytics
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=richarddevib07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richarddevib07&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 <div align="center">
 
@@ -80,9 +74,7 @@
 
 <div align="center">
 
-<a href="https://github.com/richarddevib07">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=richarddevib07&repo=KahootAccess&theme=tokyonight&hide_border=true" />
-</a>
+
 
 </div>
 
@@ -140,18 +132,5 @@ console.log("Construindo o futuro, uma linha de código por vez!");
 </div>
 <div align="center">
 
-<h2>⛏️ Breaking the Wall...</h2>
-
-<a href="https://tenor.com/search/minecraft-steve-breaking-wall-gifs">
-  <img 
-    src="https://tenor.com/pt-BR/view/minecraft-discord-meme-pigs-wall-gif-14077325"
-    width="400"
-    alt="Steve do Minecraft quebrando uma parede"
-  />
-</a>
-
-<p>
-  <strong>💻 Breaking barriers, building the future.</strong>
-</p>
 
 </div>
