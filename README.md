@@ -144,7 +144,7 @@ console.log("Construindo o futuro, uma linha de código por vez!");
 
 <a href="https://tenor.com/search/minecraft-steve-breaking-wall-gifs">
   <img 
-    src="SEU_LINK_DIRETO_DO_GIF_AQUI"
+    src="https://tenor.com/pt-BR/view/minecraft-discord-meme-pigs-wall-gif-14077325"
     width="400"
     alt="Steve do Minecraft quebrando uma parede"
   />
