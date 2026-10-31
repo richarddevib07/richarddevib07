@@ -7,10 +7,10 @@
 </div>
 
 <!-- APRESENTAÇÃO -->
-<h2 align="center">👨‍💻 Olá, mundo! Eu sou Richard</h2>
+<h2 align="center"> Hello, mundo! Eu sou Richard</h2>
 
 <p align="center">
-  Desenvolvedor Front-End apaixonado por tecnologia, programação e segurança digital.
+  Desenvolvedor Front-End, programação e segurança digital.
   <br>
   Atualmente estudando Cibersegurança e desenvolvendo projetos para evoluir minhas habilidades.
 </p>
@@ -22,12 +22,12 @@
 
 ### 🚀 Sobre mim
 
-- 💻 Formado em Desenvolvimento Front-End
-- 🔐 Estudante de Cibersegurança no Senac
+- 💻 Desenvolvedor Front-End
+- 🔐 Estudante de Cibersegurança 
 - 🌐 Desenvolvendo projetos com HTML, CSS e JavaScript
 - ⚙️ Aprendendo desenvolvimento Back-End com Node.js
 - 🛡️ Interessado em segurança de aplicações e redes
-- 🎯 Buscando minha primeira oportunidade na área de tecnologia
+
 
 <br clear="right"/>
 
@@ -111,7 +111,7 @@ console.log("Construindo o futuro, uma linha de código por vez!");
 ---
 
 <!-- CONTATO -->
-### 📫 Vamos nos conectar?
+### segue lá!
 
 <div align="center">
 
@@ -131,10 +131,27 @@ console.log("Construindo o futuro, uma linha de código por vez!");
 
 <img src="https://komarev.com/ghpvc/?username=richarddevib07&label=Visualizações%20do%20perfil&color=0077FF&style=for-the-badge" />
 
-### 💙 Obrigado pela visita!
+### volte sempre!
 
 *"A tecnologia transforma ideias em realidade."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:020024&height=100&section=footer" />
+
+</div>
+<div align="center">
+
+<h2>⛏️ Breaking the Wall...</h2>
+
+<a href="https://tenor.com/search/minecraft-steve-breaking-wall-gifs">
+  <img 
+    src="SEU_LINK_DIRETO_DO_GIF_AQUI"
+    width="400"
+    alt="Steve do Minecraft quebrando uma parede"
+  />
+</a>
+
+<p>
+  <strong>💻 Breaking barriers, building the future.</strong>
+</p>
 
 </div>
