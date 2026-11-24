@@ -1,12 +1,12 @@
 
-<!-- HEADER ANIMADO -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:0077FF,100:00D4FF&height=200&section=header&text=Richard%20Manoel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Front-End%20%7C%20Cybersecurity&descSize=16&descAlignY=55" width="100%" />
 
 </div>
 
-<!-- APRESENTAÇÃO -->
+
 <h2 align="center"> Hello, mundo! Eu sou Richard</h2>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-<!-- SOBRE MIM -->
+
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 🚀 Sobre mim
@@ -33,7 +33,7 @@
 
 ---
 
-<!-- TECNOLOGIAS -->
+
 ### 🛠️ Tecnologias e ferramentas
 
 <div align="center">
@@ -56,7 +56,7 @@
 
 ---
 
-<!-- ESTATÍSTICAS -->
+
 ### 📊 GitHub Analytics
 
 
@@ -69,7 +69,7 @@
 
 ---
 
-<!-- PROJETOS -->
+
 ### 💡 Projetos em destaque
 
 <div align="center">
@@ -82,7 +82,7 @@
 
 ---
 
-<!-- OBJETIVOS -->
+
 ### 🎯 Atualmente focado em
 
 ```javascript
